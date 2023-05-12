@@ -23,12 +23,14 @@
 ---
 
 ### Задание1
+[задание1](https://github.com/sergeysprdnv/screenshots/blob/main/zbxp2_1.png)
 
-### Задание2
-
-### Задание3
+### Задание2-3
+[задание2-3](https://github.com/sergeysprdnv/screenshots/blob/main/zbxp2_2.png)
+[задание2-3](https://github.com/sergeysprdnv/screenshots/blob/main/zbxp2_3.png)
 
 ### Задание4
+[задание4](https://github.com/sergeysprdnv/screenshots/blob/main/zbxp2_4.png)
 
 
 
